@@ -13,7 +13,7 @@
         {
             "name": "kryos-cache.zip",
             "type": "CACHE_ZIP",
-            "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.2/kryos-cache.zip",
+            "url": "https://github.com/xavierrsps/kryos-launcher-files/releases/download/v1.0.6/kryos-cache.zip",
             "sha256": "655b463b8a62decf696323050ee0833a167412b3ad97cd39252c3b9ccf050a2b",
             "size": 315602026
         }
