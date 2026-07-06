@@ -11,6 +11,13 @@
             "size": 78707818
         },
         {
+            "name": "kryos-launcher-1.0.1.msi",
+            "type": "LAUNCHER",
+            "url": "https://github.com/xavierrsps/kryos-launcher-files/releases/download/v1.0.7/kryos-launcher-1.0.1.msi",
+            "sha256": "aa71e0a023bbb64446a9cf6a1a2dd398972615f0d30eb60a90cd7c741147ced9",
+            "size": 81114014
+        },
+        {
             "name": "kryos-cache.zip",
             "type": "CACHE_ZIP",
             "url": "https://github.com/xavierrsps/kryos-launcher-files/releases/download/v1.0.6/kryos-cache.zip",
