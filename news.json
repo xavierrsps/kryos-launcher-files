@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Kryos Beta is Live!",
+      "date": "2026-07-05",
+      "summary": "Kryos beta is now open. Full OSRS-accurate combat with new weapon specials, Sarachnis, and more. Report any bugs you find.",
+      "url": ""
+    },
+    {
+      "title": "New Boss Content Added",
+      "date": "2026-07-05",
+      "summary": "Sarachnis is now in the Forthos Dungeon. All DT2 weapon specials (Arclight, Voidwaker, Soulreaper Axe and more) are now live.",
+      "url": ""
+    },
+    {
+      "title": "Launcher Released",
+      "date": "2026-07-05",
+      "summary": "Auto-updating launcher is now live. Cache downloads automatically on first launch.",
+      "url": ""
+    }
+  ]
+}

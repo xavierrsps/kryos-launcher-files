@@ -1,14 +1,14 @@
 {
-    "launcherVersion": "1.0.0",
-    "clientVersion": "1.0.6",
-    "cacheVersion": "2026-06-07",
+    "launcherVersion": "1.0.1",
+    "clientVersion": "1.0.7",
+    "cacheVersion": "2026-07-06",
     "files": [
         {
             "name": "Kryos.jar",
             "type": "CLIENT",
-            "url": "https://github.com/xavierrsps/kryos-launcher-files/releases/download/v1.0.6/Kryos.jar",
-            "sha256": "435b5206e3850aadf6316085a6a86ccd86b2446d4c3a6a8ce5efe68edd850297",
-            "size": 78603900
+            "url": "https://github.com/xavierrsps/kryos-launcher-files/releases/download/v1.0.7/Kryos.jar",
+            "sha256": "edc8c58da4a8f144f1e590664b0f3ef3a1321fcafd01230104f8fd04733c4445",
+            "size": 78707818
         },
         {
             "name": "kryos-cache.zip",
